@@ -7,6 +7,7 @@ public class FatorialBottomUp {
             resultado = resultado * i;
         }
         return resultado;
+        
     }
     
     public static void main(String[] args) {
