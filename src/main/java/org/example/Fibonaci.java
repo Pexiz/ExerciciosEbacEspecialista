@@ -1,6 +1,6 @@
 package org.example;
 
-public class fibonaci {
+public class Fibonaci {
     
     public static int encontrarElemento(int n) {
         System.out.println("→ entrando F(" + n + ")");
